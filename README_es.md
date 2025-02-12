@@ -1,5 +1,5 @@
 # 🚀 Colaboraciones en Data Science  
-**[🇪🇸 Español](https://github.com/pablolube/Collaborations/edit/main/README_es.md) | [🇬🇧 English](https://github.com/pablolube/Collaborations/edit/main/README.md)**  
+**[🇪🇸 Español](https://github.com/pablolube/Collaborations/blob/main/README_es.md) | [🇬🇧 English](https://github.com/pablolube/Collaborations/blob/main/README.md)**  
 
 Bienvenido a mi portafolio de **colaboraciones en proyectos de Data Science y Analytics**.
 Aquí encontrarás repositorios en los que he trabajado, con detalles sobre mis aportes y enlaces a los proyectos originales.  

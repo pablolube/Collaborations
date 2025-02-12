@@ -15,34 +15,6 @@ Bienvenido a mi portafolio de **colaboraciones en proyectos de Data Science y An
   - Diseñé la interfaz y las pantallas de la aplicación con **Streamlit** y **Render** para facilitar la interacción con el modelo.  
 
 📂 **Ruta de acceso:** `./NoCountry-DS-Project`
----
-
-### 📈 [Predicción de Incendios Forestales](https://github.com/usuario-original/incendios-forestales)  
-🔹 **Descripción:** Modelo de predicción de incendios basado en datos climáticos.  
-🔹 **Mi contribución:**  
-  - Recolección y preprocesamiento de datos meteorológicos.  
-  - Entrenamiento de modelos de **regresión logística y XGBoost**.  
-  - Evaluación del modelo y optimización de hiperparámetros.  
-
----
-
-### 📉 [Análisis de Movilidad en Ecobici](https://github.com/usuario-original/ecobici-analytics)  
-🔹 **Descripción:** Exploración de datos de movilidad urbana con bicicletas compartidas.  
-🔹 **Mi contribución:**  
-  - Creación de consultas avanzadas en **SQL**.  
-  - Generación de reportes y dashboards en **Power BI**.  
-  - Análisis de patrones de uso y recomendación de mejoras.  
-
----
-
-## 🌟 Cómo Contribuí a Estos Proyectos  
-He trabajado en diversas áreas dentro de estos proyectos, incluyendo:  
-✅ **Limpieza y transformación de datos** con Python (Pandas, NumPy).  
-✅ **Visualización de datos** en Power BI, Matplotlib y Seaborn.  
-✅ **Modelos de Machine Learning** con Scikit-learn y XGBoost.  
-✅ **Consultas y análisis SQL** para extraer insights clave.  
-
----
 
 ## 📬 Contáctame  
 📧 **Email:** [pablolube@gmail.com](mailto:pablolube@gmail.com)  
